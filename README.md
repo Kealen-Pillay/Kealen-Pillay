@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kealen Pillay</h1>
+<h1 align="center">Hi, I'm Kealen Pillay</h1>
 <h3 align="center">I am passionate about full stack development.</h3>
 
 - 🌱 I’m currently learning **full stack development**
 
 - 👨‍💻 All of my projects are available at [https://kealen-pillay.github.io/portfolio/](https://kealen-pillay.github.io/portfolio/)
-
-- 📫 How to reach me **kealenpillay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
