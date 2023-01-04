@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kealen Pillay</h1>
-<h3 align="center">I am passionate about full stack development.</h3>
+<h3 align="center">I am passionate about full stack development. I have had industry experince working on software in the Fintech and Agritech domains. My preference is statically typed languages such as Typescript and Java. I have experience with the MERN stack and LAMP stack. I am an advocate for implementing viable software architectures and design patterns that allow for greater code readability and maintainability such as MVC and the repository pattern.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
