@@ -5,4 +5,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,cs,java,php,py,react,nextjs,tailwind,nodejs,laravel,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,cs,py,react,nextjs,laravel,fastapi,mongodb,mysql&theme=dark)](https://skillicons.dev)
