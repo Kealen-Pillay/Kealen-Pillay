@@ -6,4 +6,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,go,py,react,nextjs,laravel,fastapi,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,go,py,react,nextjs,fastapi,mongodb,postgres,docker,kubernetes&theme=dark)](https://skillicons.dev)
